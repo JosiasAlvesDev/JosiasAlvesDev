@@ -20,17 +20,17 @@
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a></P>
 
  ---
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=edvaldoljr&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&layout=compac&align="center")](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JosiasAlves&theme=gotham&date_format=M%20j%5B%2C%20Y%5D&layout=compac&align="center")](https://git.io/streak-stats)
 
  ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edvaldoljr&hide=contribs,prs&show_icons=true&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiasAlves&hide=contribs,prs&show_icons=true&theme=gotham)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edvaldoljr&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasAlves&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### Find me around here :mag_right:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.https://www.linkedin.com/in/edvaldo-junior-77a7251a0/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/josias-alves-982b4a181/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%231B6E65&lines=Thanks+for+the+visit.+Check+back+often)](https://git.io/typing-svg)
